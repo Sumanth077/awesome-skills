@@ -22,7 +22,7 @@ Community collection of Apify agent skills for web scraping, data extraction, an
 
 ## Installation
 
-### Claude Code
+> For the official consolidated Apify plugins, see [apify/agent-skills](https://github.com/apify/agent-skills).
 
 ```bash
 # Add the marketplace

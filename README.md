@@ -4,7 +4,7 @@ Community collection of specialized [Apify](https://apify.com) agent skills for 
 
 Each skill provides domain-specific prompts and pre-configured Apify Actor workflows for common data extraction use cases.
 
-> For the official consolidated Apify plugins, see [apify/marketplace](https://github.com/apify/marketplace).
+> For the official consolidated Apify plugins, see [apify/agent-skills](https://github.com/apify/agent-skills).
 
 ## Skills
 

@@ -56,7 +56,6 @@ Any AI tool that supports Markdown context can use the skills by pointing to:
 1. **Apify account** - [apify.com](https://apify.com)
 2. **API token** - get from [Apify Console](https://console.apify.com/account/integrations), add `APIFY_TOKEN=your_token` to `.env`
 3. **Node.js 20.6+**
-4. **[mcpc CLI](https://github.com/apify/mcp-cli)** - `npm install -g @apify/mcpc`
 
 ## Pricing
 

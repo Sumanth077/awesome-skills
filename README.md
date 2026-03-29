@@ -11,7 +11,7 @@ Community collection of Apify agent skills for web scraping, data extraction, an
 ## 🎯 Available Skills
 
 <!-- BEGIN_SKILLS_TABLE -->
-| 🔧 Name | 📝 Description | 📄 Documentation |
+| Name | Description | Documentation |
 |------|-------------|---------------|
 | 👥 `apify-audience-analysis` | Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok | [SKILL.md](skills/apify-audience-analysis/SKILL.md) |
 | ⭐ `apify-brand-reputation-monitoring` | Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok | [SKILL.md](skills/apify-brand-reputation-monitoring/SKILL.md) |
